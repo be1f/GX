@@ -48,7 +48,7 @@ if [[ $yesno =~ "Y"|"y" ]]; then
     },
     "inbounds": [
         {
-            "port": 11111,
+            "port": 22222,
             "protocol": "vmess",
             "settings": {
                 "clients": [
